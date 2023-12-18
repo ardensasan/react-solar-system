@@ -13,8 +13,8 @@ import { PlanetProperties } from "./types";
 export const planetList: Array<PlanetProperties> = [
   {
     name: "Mercury",
-    radius: 0.244,
-    distanceFromSun: 0.11,
+    radius: 0.00244,
+    distanceFromSun: 1.11,
     revolution: 47.9,
     rotation: 58.6,
     map: mercuryMap,
