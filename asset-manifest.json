@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/solar-system/static/js/main.3f5c7fd9.chunk.js",
-    "main.js.map": "/solar-system/static/js/main.3f5c7fd9.chunk.js.map",
-    "runtime-main.js": "/solar-system/static/js/runtime-main.88dd8f4f.js",
-    "runtime-main.js.map": "/solar-system/static/js/runtime-main.88dd8f4f.js.map",
-    "static/js/2.c2429a74.chunk.js": "/solar-system/static/js/2.c2429a74.chunk.js",
-    "static/js/2.c2429a74.chunk.js.map": "/solar-system/static/js/2.c2429a74.chunk.js.map",
-    "static/js/3.230e8fd6.chunk.js": "/solar-system/static/js/3.230e8fd6.chunk.js",
-    "static/js/3.230e8fd6.chunk.js.map": "/solar-system/static/js/3.230e8fd6.chunk.js.map",
+    "main.js": "/solar-system/static/js/main.d0477a78.chunk.js",
+    "main.js.map": "/solar-system/static/js/main.d0477a78.chunk.js.map",
+    "runtime-main.js": "/solar-system/static/js/runtime-main.e13e692e.js",
+    "runtime-main.js.map": "/solar-system/static/js/runtime-main.e13e692e.js.map",
+    "static/js/2.3b529ef5.chunk.js": "/solar-system/static/js/2.3b529ef5.chunk.js",
+    "static/js/2.3b529ef5.chunk.js.map": "/solar-system/static/js/2.3b529ef5.chunk.js.map",
+    "static/js/3.279e5d39.chunk.js": "/solar-system/static/js/3.279e5d39.chunk.js",
+    "static/js/3.279e5d39.chunk.js.map": "/solar-system/static/js/3.279e5d39.chunk.js.map",
     "index.html": "/solar-system/index.html",
-    "static/js/2.c2429a74.chunk.js.LICENSE.txt": "/solar-system/static/js/2.c2429a74.chunk.js.LICENSE.txt",
+    "static/js/2.3b529ef5.chunk.js.LICENSE.txt": "/solar-system/static/js/2.3b529ef5.chunk.js.LICENSE.txt",
     "static/media/earth.981cc3e3.jpg": "/solar-system/static/media/earth.981cc3e3.jpg",
     "static/media/jupiter.3e84533e.jpg": "/solar-system/static/media/jupiter.3e84533e.jpg",
     "static/media/loading_icon.011aaec0.jpg": "/solar-system/static/media/loading_icon.011aaec0.jpg",
@@ -22,8 +22,8 @@
     "static/media/venus.4b03f2d6.jpg": "/solar-system/static/media/venus.4b03f2d6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.88dd8f4f.js",
-    "static/js/2.c2429a74.chunk.js",
-    "static/js/main.3f5c7fd9.chunk.js"
+    "static/js/runtime-main.e13e692e.js",
+    "static/js/2.3b529ef5.chunk.js",
+    "static/js/main.d0477a78.chunk.js"
   ]
 }
